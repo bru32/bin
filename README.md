@@ -1,5 +1,4 @@
-# binaries
-TechniSolve Program Binaries
+# techniSolve Programs
 
 AirState
 RoomHeat
