@@ -1,6 +1,6 @@
 # TechniSolve Programs
 
-AirState
+AirState - Moist Air State;
 RoomHeat
 PeakLoad
 ColdRoom
