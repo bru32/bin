@@ -1,4 +1,4 @@
-# techniSolve Programs
+# TechniSolve Programs
 
 AirState
 RoomHeat
